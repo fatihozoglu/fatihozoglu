@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @fatihozoglu
-- 👀 I’m interested in Front-End Web Development including HTML, CSS, Javascript and ReactJS.
-- 🌱 I’m currently learning ReactJS and I am really enjoying the process.
+- 👋 Hi, I’m Fatih, I am an electronic engineer and I have 7 years of experience in project management.
+- I have started my computer programming journey with EDX - Harvard CS50's Introduction to Computer Science and since then I have been studying to improve my skills.
+- 👀 I’m interested in Front-End Web Development (HTML, CSS, Javascript and ReactJS) and Data Analysis.
+- 🌱 I’m currently learning ReactJS and really enjoying the challenging process.
+- I'm looking forward to working as a Front-End Web Developer soon and building a great career on it.
 
 <!---
 fatihozoglu/fatihozoglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
