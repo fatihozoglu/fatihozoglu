@@ -6,7 +6,7 @@
   - Data Analysis(R, Pyhton. Tableau).
 
 - I’m currently learning ReactJS/VueJS/NodeJS and really enjoying the challenging process.
-- I'm looking forward to working as a Front-End/Full-Stack Web Developer soon and building a great career on it.
+- I'm looking forward to working as a Front-End/Full-Stack Web Developer as soon as possible to build a great career in Software Development.
 
 <!---
 fatihozoglu/fatihozoglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
