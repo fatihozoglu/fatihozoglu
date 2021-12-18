@@ -1,11 +1,27 @@
-- Hi, I’m Fatih, an electronic engineer with 7 years of experience in project management.
-- I have started my computer programming journey with EDX - Harvard CS50's Introduction to Computer Science and since then I have been working hard to improve my technical skills.
-- I’m interested in:
-  - Front-End Development with HTML5, CSS3, Javascript, ReactJS and VueJS,
-  - Back-End Development with NodeJS, Mongodb and PostgreSQL.
+I am an electronic engineer with 7 years of experience and a self-taught software developer with a great passion for Web Development with JavaScript technologies. Technologies I have worked with:
 
-- I’m currently working with ReactJS/VueJS/NodeJS and really enjoying the process of learning new concepts and building fully functioning web apps.
-- I'm looking forward to working as a Front-End/Full-Stack Web Developer as soon as possible to build a great career in Software Development.
+Front End Web Development:
+- HTML5
+- CSS3
+- Javascript (ES6 and beyond)
+- VueJs (Vuex, Vue Router, Vuelidate, VueCLI, BootstrapVue, Vuetify)
+- ReactJs (Functional Components, Context API, React Router)
+
+Back End Web Development:
+- NodeJs
+- ExpressJs (Express Validator, JWT)
+
+Database Technologies:
+- Mongodb (Mongoose ODM)
+- PostgreSQL (Node-Postgres)
+
+Development Tools:
+- Git Version Control - Github
+- Babel Javascript Compiler
+- Webpack Module Bundler
+- ESLint Javascript Linter
+- Prettier Code Formatter
+- I’m interested in:
 
 <!---
 fatihozoglu/fatihozoglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
