@@ -1,4 +1,4 @@
-I am an electronic engineer with 7 years of experience in management and a self-taught software developer with a great passion for Web Development. Technologies I have worked with:
+I am an electronic engineer with 7 years of experience in management and a self-taught software developer with a great passion for Web Development. Technologies and tools I have been working with:
 
 Front End Web Development:
 - HTML5
