@@ -1,9 +1,9 @@
-I am an electronic engineer with 7 years of experience and a self-taught software developer with a great passion for Web Development with JavaScript technologies. Technologies I have worked with:
+I am an electronic engineer with 7 years of experience in management and a self-taught software developer with a great passion for Web Development. Technologies I have worked with:
 
 Front End Web Development:
 - HTML5
 - CSS3
-- Javascript (ES6 and beyond)
+- Javascript (ES6)
 - VueJs (Vuex, Vue Router, Vuelidate, VueCLI, BootstrapVue, Vuetify)
 - ReactJs (Functional Components, Context API, React Router)
 
