@@ -10,6 +10,7 @@ Front End Web Development:
 Back End Web Development:
 - NodeJs
 - ExpressJs (Express Validator, JWT)
+- REST API
 
 Database Technologies:
 - Mongodb (Mongoose ODM)
